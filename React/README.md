@@ -17,4 +17,4 @@
 
 📎 Reference
 <p> Git(ENG) : <a href = "https://github.com/MoonHighway/learning-react"> Link</a> </p>
-<p> Git(KOR) : <a href = "["](https://github.com/enshahar/learning-react-kor)https://github.com/enshahar/learning-react-kor> Link</a> </p>
+<p> Git(KOR) : <a href = "https://github.com/enshahar/learning-react-kor"> Link</a> </p>

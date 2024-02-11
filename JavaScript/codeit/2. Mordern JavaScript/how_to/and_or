@@ -1,0 +1,19 @@
+1. and 와 or은 둘 중 하나의 값을 선택
+    1. and : 둘 중 하나라도 false 일 경우, false 
+    2. or : 둘 중 하나라도 true 일 경우 , true
+2. AND 와 OR 연산자의 연산 우선순위
+ex)
+    function checkAnswer(value) {
+    if (value < 10 && value > 0 && value !== 3) {
+        return '정답입니다!';
+    } 
+
+    return '틀렸습니다!';
+    }
+    console.log(checkAnswer(4)); // 정답입니다!
+
+    console.log(true || false && false); // true
+    console.log((true || false) && false); // false
+
+    console.log('Codeit' || NaN && false); // Codeit
+    console.log(('Codeit' || NaN) && false); // false

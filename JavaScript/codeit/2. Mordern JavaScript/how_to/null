@@ -1,0 +1,33 @@
+1. null 병합 연산자 ?? : null 혹은 undefined 값을 가려내는 연산자
+ex)
+    const example1 = null ?? 'I';
+    const example2 = undefined ?? 'love';
+    const example3 = 'Codeit' ?? 'JavaScript';
+
+    console.log(example1, example2, example3); // ?
+
+    const example1 = null ?? 'I'; // I
+    const example2 = undefined ?? 'love'; // love
+    const example3 = 'Codeit' ?? 'JavaScript'; // Codeit
+
+    console.log(example1, example2, example3); // I love Codeit
+
+2. OR 연산자(||)와 비교
+ex) 
+    const title1 = null || 'codeit';
+    const title2 = null ?? 'codeit';
+
+    console.log(title1); // codeit
+    console.log(title2); // codeit
+
+    const title1 = false || 'codeit';
+    const title2 = false ?? 'codeit';
+
+    console.log(title1); // codeit
+    console.log(title2); // false
+
+    const width1 = 0 || 150;
+    const width2 = 0 ?? 150;
+
+    console.log(width1); // 150
+    console.log(width2); // 0

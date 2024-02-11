@@ -1,0 +1,60 @@
+1. Data Type
+ 1️⃣ 타 언어에 비해 데이터 타입이 유연하게 동작함.
+ 2️⃣ 데이터 타입 이해도가 중요
+ 3️⃣ 데이터 타입
+    1. 기본형 (Primitive Type) : Number, String, Boolean, Null, Undefined,[ES6] Symbol, BigInt
+    2. 참조형 (Reference Type) : Object
+
+2. Symbol : 코드 내에서 유일한 값을 가진 변수 이름을 만들 때 사용
+ex)
+    const user = Symbol();
+    const user = Symbol('this is a user');
+
+    user === 'this is user'; // false
+    user === 'user'; // false
+    user === 'Symbol'; // false
+    user === true; // false
+    user === false; // false
+    user === 123; // false
+    user === 0; // false
+    user === null; // false
+    user === undefined; // false
+
+    const symbolA = Symbol('this is Symbol');
+    const symbolB = Symbol('this is Symbol');
+    console.log(symbolA === symbolB); // false
+
+3.BigInt : 아주 큰 정수(Integer)를 표현하기 위해 등장한 데이터 타입
+ex)
+    console.log(9007199254740991 + 1 === 9007199254740991 + 2); // true
+    console.log(9007199254740991 + 2); /// 9007199254740992
+    console.log(9007199254740993); /// 9007199254740992
+    console.log(9007199254740993n); // 9007199254740993n
+    console.log(BigInt('9007199254740993')); // 9007199254740993n
+    1.5n; // SyntaxError
+    10n / 6n; // 1n
+    5n / 2n; // 2n
+    3n * 2; // TypeError
+    3n * 2n; // 6n
+    Number(3n) * 2; // 6
+
+4. typeof 연산자 : 사용하는 값이 어떤 데이터 타입을 가지고 있는지 확인
+ex)
+    typeof 'Codeit'; // string
+    typeof Symbol(); // symbol
+    typeof {}; // object
+    typeof []; // object
+    typeof true; // boolean
+    typeof(false); // boolean
+    typeof(123); // number
+    typeof(NaN); // number
+    typeof(456n); // bigint
+    typeof(undefined); // undefined
+    
+    typeof null; // object
+    function sayHi() {
+        console.log('Hi!?');
+    }
+
+    typeof sayHi; // function
+

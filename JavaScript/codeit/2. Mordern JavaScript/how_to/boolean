@@ -1,0 +1,9 @@
+boolean : 다른 타입도 boolean으로 평가 됨
+1. false 평가되는 값 (Falsy 값)
+    false
+    null
+    undefined
+    NaN
+    0
+2. true 평가되는 값 (Truthy 값)
+- false 평가되는 값 제외 나머지

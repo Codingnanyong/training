@@ -1,0 +1,46 @@
+GET http://localhost:3000/api/members
+
+###
+GET http://localhost:3000/api/members?team=Asenal
+
+###
+GET http://localhost:3000/api/members?team=Reverpool
+
+###
+GET http://localhost:3000/api/members?team=Manchester City
+
+
+###
+POST http://localhost:3000/api/members
+Content-Type: application/json
+
+{
+    "id": 11,
+    "name": "Bellingham",
+    "team": "Real Mardird",
+    "position": "Center Midfilder",
+    "email": "Bellingham@gmail.com",
+    "phoneNumber": "010-bbbb-bbbb",
+    "DebutDate": "2019/11/15",
+    "birthday": "2003/06/29",
+    "profileImage": "Bellingham.png"
+}
+
+###
+PUT  http://localhost:3000/api/members/1
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Saka",
+    "team": "Asenal",
+    "position": "RW",
+    "email": "saka@gmail.com",
+    "phoneNumber": "010-1234-1234",
+    "DebutDate": "2018/11/30",
+    "birthday": "2001/09/05",
+    "profileImage": "saka.png"
+}
+
+###
+DELETE  http://localhost:3000/api/members/1

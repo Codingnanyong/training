@@ -7,23 +7,25 @@ GET http://localhost:3000/api/members?team=Asenal
 GET http://localhost:3000/api/members?team=Reverpool
 
 ###
-GET http://localhost:3000/api/members?team=Manchester City
+GET http://localhost:3000/api/members?team=Manchester Red
 
+
+###
+GET http://localhost:3000/api/members/1
 
 ###
 POST http://localhost:3000/api/members
 Content-Type: application/json
 
 {
-    "id": 11,
-    "name": "Bellingham",
+    "name": "Kross",
     "team": "Real Mardird",
     "position": "Center Midfilder",
-    "email": "Bellingham@gmail.com",
-    "phoneNumber": "010-bbbb-bbbb",
-    "DebutDate": "2019/11/15",
-    "birthday": "2003/06/29",
-    "profileImage": "Bellingham.png"
+    "email": "Kross@gmail.com",
+    "phoneNumber": "010-kkkk-kkkk",
+    "DebutDate": "2008/10/15",
+    "birthday": "1990/06/29",
+    "profileImage": "Kross.png"
 }
 
 ###
@@ -31,16 +33,16 @@ PUT  http://localhost:3000/api/members/1
 Content-Type: application/json
 
 {
-    "id": 1,
-    "name": "Saka",
-    "team": "Asenal",
-    "position": "RW",
-    "email": "saka@gmail.com",
-    "phoneNumber": "010-1234-1234",
-    "DebutDate": "2018/11/30",
-    "birthday": "2001/09/05",
-    "profileImage": "saka.png"
+    "position": "RW"
 }
 
 ###
-DELETE  http://localhost:3000/api/members/1
+PUT  http://localhost:3000/api/members/2
+Content-Type: application/json
+
+{
+    "name": "Willom Saliba"
+}
+
+###
+DELETE  http://localhost:3000/api/members/12

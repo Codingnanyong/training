@@ -1,0 +1,19 @@
+Install Docker 
+🔌 Docker Web site : https://www.docker.com/get-started/
+    A. macOS : type (Apple Chip or Intel Chip)
+    B. windows : type (x86,x64)
+    C. Linux (Ubuntu)
+        --- Preparation for installation ---
+        a. 'apt' Update : 
+            sudo apt-get Update
+        b. Using repositories via HTTP : 
+            sudo apt-get install -y \ apt-transport-https \ ca-certificates \ curl\ software-properties-common
+        c. Add GPG Key : 
+            curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+        d. Check GPG Key : 
+            sudo apt-key fingerprint OEBFCD88
+        e. Register Rpository : 
+            sudo add-apt-repository \ "deb [arch=amd64] https://download.docker.com/linux/ubuntu \ $(lsb_release -cs) \ stable"
+            sudo apt-get Update
+        --- Install Docker
+        f. sudo apt-get install docker-ce

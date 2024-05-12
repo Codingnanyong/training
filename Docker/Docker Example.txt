@@ -1,0 +1,5 @@
+Docker Run Web Server(Nginx)
+    A. Docker Image Download
+        docker pull nginx
+    B. Run Docker Image
+        docker container run --name webserver -d -p 80:80 nginx

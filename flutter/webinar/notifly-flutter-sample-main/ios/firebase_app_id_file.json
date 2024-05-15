@@ -1,0 +1,7 @@
+{
+  "file_generated_by": "FlutterFire CLI",
+  "purpose": "FirebaseAppID & ProjectID for this Firebase app in this directory",
+  "GOOGLE_APP_ID": "sample_app_id",
+  "FIREBASE_PROJECT_ID": "sample_project_id",
+  "GCM_SENDER_ID": "sample_sender_id"
+}

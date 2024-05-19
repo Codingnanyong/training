@@ -3,7 +3,7 @@
 Must Have Flutter Training.
 <br>
 <p align="center">
-<img src="Image/flutter.jpg" width="50%" height="50%">
+<img src="img/flutter.jpg" width="50%" height="50%">
 </p>
 
 ### 🛠 Flutter Prepare

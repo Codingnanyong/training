@@ -1,7 +1,9 @@
-Must Have Git&Github Training.
+Git_trainging
+
+### 1.Must Hae 깃&깃허브 입문
 <br>
 <p align="center">
-<img src="Image/Book.jpg" width="50%" height="50%">
+<img src="img/Book.jpg" width="50%" height="50%">
 </p>
 
 ## Git Bash(CLI) Command

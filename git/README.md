@@ -1,4 +1,4 @@
-Git_trainging
+# Git_trainging
 
 ### 1.Must Hae 깃&깃허브 입문
 <br>

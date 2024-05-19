@@ -3,7 +3,7 @@
 ### 1. 생활코딩! React Programming
 
 <p align="center">
-<img src="img/Book.jpeg" width="50%" height="50%">
+<img src="Img/Book.jpeg" width="50%" height="50%">
 </p>
 
 📎 Reference
@@ -12,7 +12,7 @@
 
 ### 2. Learning React
 <p align="center">
-<img src="img/React.jpeg" width="50%" height="50%">
+<img src="Img/React.jpeg" width="50%" height="50%">
 </p>
 
 📎 Reference

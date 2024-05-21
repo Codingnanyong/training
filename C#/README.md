@@ -7,6 +7,7 @@
 </p>
 
 📎 Reference
+<p> Git(ENG) : <a href = "https://github.com/IntelliTect/EssentialCSharp"> Link</a> </p>
 
 
 ### 2. Effective C#
@@ -16,6 +17,7 @@
 </p>
 
 📎 Reference
+<p> Git(ENG) : <a href = "https://github.com/BillWagner/EffectiveCSharpAnalyzers"> Link</a> </p>
 
 ### 3. More Effective C#
 
@@ -24,3 +26,4 @@
 </p>
 
 📎 Reference
+<p> Git(ENG) : <a href = "https://github.com/BillWagner/MoreEffectiveCSharpAnalyzers"> Link</a> </p>

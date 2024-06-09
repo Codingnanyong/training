@@ -26,3 +26,13 @@
 📎 Reference
 
 <p> Git(ENG) : <a href = "https://github.com/javascripteverywhere"> Link</a> </p>
+
+### 4. Multithreaded JavaScript
+
+<p align="center">
+<img src="img/Multithreaded_JavaScript.jpg" width="50%" height="50%">
+</p>
+
+📎 Reference
+
+<p> Git(ENG) : <a href = "https://github.com/MultithreadedJSBook"> Link</a> </p>

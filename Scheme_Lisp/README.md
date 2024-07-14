@@ -3,7 +3,7 @@
 ### 1. Book : Structure and Interpretation of Computer Programs
 
 <p align = "center">
-  <img src="img/Structure and Interpretation of Computer Programs.jfif" width="500px" height="300px" >
+  <img src="img/Structure and Interpretation of Computer Programs.jfif" width="500px" height="500px" >
 </p>
 
 📎 Reference

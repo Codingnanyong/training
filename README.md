@@ -1,18 +1,18 @@
 # training
 My Code / Language Training Repository
 
-### C# Training
+### C# 
 
-### Docker Training
+### Docker 
 
-### Flutter Training
+### Flutter 
 
-### Git Training
+### Git 
 
-### JavaScript Training
+### JavaScript 
 1. JavaScript
 2. NodeJS
 3. React
 
-### Scheme Training
+### Scheme 
 1. Lisp

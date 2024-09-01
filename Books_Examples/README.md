@@ -25,7 +25,7 @@
 📎 Reference
 <p> Git : <a href = "https://github.com/codefactory-co/flutter-golden-rabbit-novice-v2"> Link</a> </p>
 
-### JavaScript 
+## JavaScript 
 <p align = "center">
   <img src="img/javascript everywhere.jpeg" width="300px" height="300px" >
   <img src="img/Multithreaded_JavaScript.jpg" width="300px" height="300px" >

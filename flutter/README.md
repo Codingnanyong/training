@@ -1,11 +1,5 @@
 # flutter_training
 
-### 1.Must Have Flutter.
-<br>
-<p align="center">
-<img src="img/flutter.jpg" width="50%" height="50%">
-</p>
-
 ### 🛠 Flutter Prepare
 
 > 1. Flutter SDK Download : https://docs.flutter.dev/get-started/install

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <ChapterNumber>01</ChapterNumber>
+    </PropertyGroup>
+    <Import Project="..\ChapterTests.props" />
+    <ItemGroup>
+        <Compile Include="..\Shared\Tests\PowerShellTestUtilities.cs" Link="PowerShellTestUtilities.cs" />
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\Chapter01\Chapter01.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="IntelliTect.Multitool" />
+    </ItemGroup>
+</Project>

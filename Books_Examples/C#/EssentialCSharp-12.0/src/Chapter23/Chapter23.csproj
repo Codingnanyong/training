@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ChapterNumber>23</ChapterNumber>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <Import Project="..\Chapter.props" />
+  <ItemGroup>
+    <Compile Remove="Listing23.02.TheVirtualAllocExAPI.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Shared\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Listing23.02.TheVirtualAllocExAPI.cs" />
+  </ItemGroup>
+</Project>

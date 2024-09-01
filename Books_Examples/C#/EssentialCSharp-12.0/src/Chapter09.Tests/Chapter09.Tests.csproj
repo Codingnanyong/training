@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProductName>Chapter09.Tests</ProductName>
+  </PropertyGroup>
+  <Import Project="..\ChapterTests.props" />
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Scripting" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Chapter09\Chapter09.csproj" />
+  </ItemGroup>
+</Project>

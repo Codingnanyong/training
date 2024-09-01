@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProductName>Chapter09</ProductName>
+  </PropertyGroup>
+  <Import Project="..\Chapter.props" />
+  <ItemGroup>
+    <Compile Remove="Listing09.13.RecordStructInitialization.cs" />
+	<None Include="Listing09.13.RecordStructInitialization.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Shared\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>

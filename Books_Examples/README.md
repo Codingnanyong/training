@@ -5,8 +5,7 @@
   <img src="img/Structure and Interpretation of Computer Programs.jfif" width="500px" height="500px" >
 </p>
 📎 Reference
-<p> Lecture : <a href ="https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/">Link</a></p>
-<p> Document : <a href = "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html">Link</a</p>
+<p> Lecture : <a href ="https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/">Link</a></p><p> Document : <a href = "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html">Link</a</p>
 
 ### C# : Essential C#
 
@@ -56,18 +55,16 @@
   <img src="img/react_programming.jpeg" width="500px" height="500px" >
 </p>
 📎 Reference
-<p> Youtube : <a href = "https://www.youtube.com/watch?v=AoMv0SIjZL8&list=PLuHgQVnccGMCOGstdDZvH41x0Vtvwyxu7"> Link</a> </p>
-<p> Git : <a href = "https://github.com/egoing/react-2022-tutorial-src"> Link</a> </p>
+<p> Youtube : <a href = "https://www.youtube.com/watch?v=AoMv0SIjZL8&list=PLuHgQVnccGMCOGstdDZvH41x0Vtvwyxu7"> Link</a> </p><p> Git : <a href = "https://github.com/egoing/react-2022-tutorial-src"> Link</a> </p>
 
 ### React : Learning React
 <p align = "center">
   <img src="img/LearningReact.jpeg" width="500px" height="500px" >
 </p>
 📎 Reference
-<p> Git(ENG) : <a href = "https://github.com/MoonHighway/learning-react"> Link</a> </p>
-<p> Git(KOR) : <a href = "https://github.com/enshahar/learning-react-kor"> Link</a> </p>
+<p> Git(ENG) : <a href = "https://github.com/MoonHighway/learning-react"> Link</a></p> <p> Git(KOR) : <a href = "https://github.com/enshahar/learning-react-kor"> Link</a></p>
 
-## Nand to Tetirs
+### Nand to Tetirs
 <p align = "center">
   <img src="img/The Elements of Computing System.jfif" width="500px" height="500px" >
 </p>

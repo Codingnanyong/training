@@ -1,72 +1,53 @@
 # Book Sample Codes
 
-### Scheme Lisp : Structure and Interpretation of Computer Programs
+## Scheme Lisp 
 <p align = "center">
-  <img src="img/Structure and Interpretation of Computer Programs.jfif" width="500px" height="500px" >
+  <img src="img/Structure and Interpretation of Computer Programs.jfif" width="300px" height="300px" >
 </p>
 📎 Reference
 <p> Lecture : <a href ="https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/">Link</a></p><p> Document : <a href = "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html">Link</a</p>
 
-### C# : Essential C#
-
+## C# 
 <p align="center">
-<img src="img/EssentialCsharp.jpeg" width="50%" height="50%">
+  <img src="img/EssentialCsharp.jpeg" width="300px" height="300px">
+  <img src="img/EffectiveCsharp.jpg" width="300px" height="300px">
+  <img src="img/more EffectiveCsharp.jpg" width="300px" height="300px">
 </p>
 📎 Reference
-<p> Git(ENG) : <a href = "https://github.com/IntelliTect/EssentialCSharp"> Link</a> </p>
+<p>EssntialCsharp Git(ENG) : <a href = "https://github.com/IntelliTect/EssentialCSharp"> Link</a> </p>
+<p>EffectiveCsharp Git(ENG) : <a href = "https://github.com/BillWagner/EffectiveCSharpAnalyzers"> Link</a> </p>
+<p>MoreEffectiveCsharp Git(ENG) : <a href = "https://github.com/BillWagner/MoreEffectiveCSharpAnalyzers"> Link</a></p>
 
-### C# : Effective C#
-<p align="center">
-<img src="img/EffectiveCsharp.jpg" width="50%" height="50%">
-</p>
-📎 Reference
-<p> Git(ENG) : <a href = "https://github.com/BillWagner/EffectiveCSharpAnalyzers"> Link</a> </p>
-
-### C# : More Effective C#
-<p align="center">
-<img src="img/more EffectiveCsharp.jpg" width="50%" height="50%">
-</p>
-📎 Reference
-<p> Git(ENG) : <a href = "https://github.com/BillWagner/MoreEffectiveCSharpAnalyzers"> Link</a></p>
-
-### Flutter : MustHave 코드팩토리의 플러터 프로그래밍
+## Flutter
 <p align = "center">
-  <img src="img/flutter.jpg" width="500px" height="500px" >
+  <img src="img/flutter.jpg" width="300px" height="300px" >
 </p>
 📎 Reference
 <p> Git : <a href = "https://github.com/codefactory-co/flutter-golden-rabbit-novice-v2"> Link</a> </p>
 
-### JavaScript : JavaScript Everywhere
+### JavaScript 
 <p align = "center">
-  <img src="img/javascript everywhere.jpeg" width="500px" height="500px" >
+  <img src="img/javascript everywhere.jpeg" width="300px" height="300px" >
+  <img src="img/Multithreaded_JavaScript.jpg" width="300px" height="300px" >
 </p>
 📎 Reference
-<p> Git(ENG) : <a href = "https://github.com/javascripteverywhere"> Link</a> </p>
+<p> JavaScript Everywhere Git(ENG) : <a href = "https://github.com/javascripteverywhere"> Link</a> </p>
+<p> Multithreaded JavaScript Git(ENG) : <a href = "https://github.com/MultithreadedJSBook"> Link</a> </p>
 
-### JavaScript : Multithreaded JavaScript
+## React 
 <p align = "center">
-  <img src="img/Multithreaded_JavaScript.jpg" width="500px" height="500px" >
+  <img src="img/react_programming.jpeg" width="300px" height="300px" >
+  <img src="img/LearningReact.jpeg" width="300px" height="300px" >
 </p>
 📎 Reference
-<p> Git(ENG) : <a href = "https://github.com/MultithreadedJSBook"> Link</a> </p>
+<p> React Programming Youtube : <a href = "https://www.youtube.com/watch?v=AoMv0SIjZL8&list=PLuHgQVnccGMCOGstdDZvH41x0Vtvwyxu7"> Link</a> </p>
+<p> React Programming Git : <a href = "https://github.com/egoing/react-2022-tutorial-src"> Link</a> </p>
+<p> Learning React Git(ENG) : <a href = "https://github.com/MoonHighway/learning-react"> Link</a></p> 
+<p> Learning React Git(KOR) : <a href = "https://github.com/enshahar/learning-react-kor"> Link</a></p>
 
-### React : 리액트 프로그래밍
+## Nand to Tetirs
 <p align = "center">
-  <img src="img/react_programming.jpeg" width="500px" height="500px" >
-</p>
-📎 Reference
-<p> Youtube : <a href = "https://www.youtube.com/watch?v=AoMv0SIjZL8&list=PLuHgQVnccGMCOGstdDZvH41x0Vtvwyxu7"> Link</a> </p><p> Git : <a href = "https://github.com/egoing/react-2022-tutorial-src"> Link</a> </p>
-
-### React : Learning React
-<p align = "center">
-  <img src="img/LearningReact.jpeg" width="500px" height="500px" >
-</p>
-📎 Reference
-<p> Git(ENG) : <a href = "https://github.com/MoonHighway/learning-react"> Link</a></p> <p> Git(KOR) : <a href = "https://github.com/enshahar/learning-react-kor"> Link</a></p>
-
-### Nand to Tetirs
-<p align = "center">
-  <img src="img/The Elements of Computing System.jfif" width="500px" height="500px" >
+  <img src="img/The Elements of Computing System.jfif" width="300px" height="300px" >
 </p>
 📎 Reference
 <p> Site : <a href = "https://www.nand2tetris.org/"> Link</a> </p>

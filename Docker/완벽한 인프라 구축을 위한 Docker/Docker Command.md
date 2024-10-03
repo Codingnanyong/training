@@ -1,4 +1,4 @@
-## Docker Coommand
+## Docker Command
 
 ### 1.  Docker Settings
 + Check Docker Version : docker Version

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ChapterNumber>17</ChapterNumber>
+  </PropertyGroup>
+  <Import Project="..\Chapter.props" />
+  <ItemGroup>
+    <Compile Remove="Listing17.20.CSharpEquivalentOfCompilerGeneratedCodeForIterators.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Listing17.07a.IteratingOverSortedDictionaryWithForeach.Placeholder.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Listing17.20.CSharpEquivalentOfCompilerGeneratedCodeForIterators.cs" />
+    <Compile Include="..\Shared\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>

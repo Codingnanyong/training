@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProductName>Chapter11</ProductName>
+  </PropertyGroup>
+  <Import Project="..\Chapter.props" />
+  <ItemGroup>
+    <ProjectReference Include="..\Chapter07\Chapter07.csproj" />
+    <Compile Include="..\Shared\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>

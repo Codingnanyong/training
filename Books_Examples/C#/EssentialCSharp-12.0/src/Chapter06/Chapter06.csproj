@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ChapterNumber>06</ChapterNumber>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ExpectedWarnings>$(ExpectedWarnings),CA1507</ExpectedWarnings>
+    <!-- 
+    CA1507 Use nameof to express symbol names: Use nameof in place of string literal
+    -->
+    <IgnoredWarnings>$(IgnoredWarnings),IDE0079</IgnoredWarnings>
+  </PropertyGroup>
+  <Import Project="..\Chapter.props" />
+  <ItemGroup>
+    <Compile Remove="Listing06.24.CILCodeResultingFromProperties.cs" />
+    <Compile Remove="Listing06.25.PropertiesAreAnExplicitConstructInCIL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Shared\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Listing06.24.CILCodeResultingFromProperties.cs" />
+    <None Include="Listing06.25.PropertiesAreAnExplicitConstructInCIL.cs" />
+  </ItemGroup>
+</Project>

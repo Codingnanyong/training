@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ChapterNumber>07</ChapterNumber>
+  </PropertyGroup>
+  <PropertyGroup>
+    <!--Listing the warning here causes it to be a warning rather than an error.-->
+    <!--CS0108 hides inherited member warning where 'new' is advised.-->
+    <!--IDE0170 Property pattern can be simplified (to use expanded property pattern) -->
+    <ExpectedWarnings>$(ExpectedWarnings)CS0108,IDE0170</ExpectedWarnings>
+    <IgnoredWarnings>$(IgnoredWarnings)</IgnoredWarnings>
+  </PropertyGroup>
+  <Import Project="..\Chapter.props" />
+  <ItemGroup>
+    <Compile Remove="Table07.03.TypePatternMatchingWithIsOperator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Shared\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>
